@@ -1,9 +1,0 @@
-{
-  "name": "woopclap",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Woopclap study site with an AI backend",
-  "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=20.12" }
-}
